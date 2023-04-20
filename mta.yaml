@@ -32,7 +32,6 @@ modules:
     path: gen/db
     parameters:
       memory: 256M
-      disk-quota: 256M
       buildpack: nodejs_buildpack
     requires:
       - name: media-db

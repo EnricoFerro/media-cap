@@ -1,4 +1,4 @@
-namespace sap.capire.media;
+namespace com.dncsrl.mediasrv;
 
 entity Media {
 
